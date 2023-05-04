@@ -6,13 +6,17 @@ This project is about performing exploratory data analysis (EDA) and data cleani
 
 - The aim of this project is to analyze the IPL data from 2008 to 2020 and gain insights into various aspects of the game, such as team performance, player performance, match outcomes, toss decisions, venues, seasons, etc. The project involves the following steps:
 
-## Data collection: The IPL data is collected from Kaggle. The data consists of two CSV files: matches.csv and balls.csv. The matches.csv file contains information about each match, such as date, venue, teams, toss, result, etc. The balls.csv file contains information about each ball delivered in each match, such as batsman, bowler, runs scored, wickets taken, etc.
+## Data collection 
+The IPL data is collected from Kaggle. The data consists of two CSV files: matches.csv and balls.csv. The matches.csv file contains information about each match, such as date, venue, teams, toss, result, etc. The balls.csv file contains information about each ball delivered in each match, such as batsman, bowler, runs scored, wickets taken, etc.
 
-## Data analysis: The IPL data is analyzed using Python to perform various statistical and graphical methods to explore and understand the data. The analysis involves finding patterns, trends, correlations, and insights from the data using statistics and correlation
+## Exploratory Data analysis 
+The IPL data is analyzed using Python to perform various statistical and graphical methods to explore and understand the data. The analysis involves finding patterns, trends, correlations, and insights from the data using statistics and correlation
 
-## Data cleaning: The IPL data is cleaned using Python - Pandas and Numpy to remove or impute missing values, duplicates, errors, outliers, and inconsistent values.
+## Data cleaning 
+The IPL data is cleaned using Python - Pandas and Numpy to remove or impute missing values, duplicates, errors, outliers, and inconsistent values.
 
-## Data visualization: The cleaned IPL dataset is visualized using Tableau to create interactive dashboards that communicate the findings clearly and effectively. The dashboards include various graphical representations of the data.
+## Data visualization 
+The cleaned IPL dataset is visualized using Tableau to create interactive dashboards that communicate the findings clearly and effectively. The dashboards include various graphical representations of the data.
 
 ## Project Requirements
 To run this project locally on your computer, you will need the following:
